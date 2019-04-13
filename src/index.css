@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 15px;
+}
+
+main {
+	background: #eee;
+	border: 1px solid #ccc;
+	padding: 5px 20px;
+	margin: 20px 0;
+}
+
+pre {
+	font-family: Monaco, Consolas, monospace;
+}
+
+select {
+	display: inline;
+	width: 110px;
+	vertical-align: middle;
+}
+
+.count-controls {
+	font-size: 20px;
+}
+.count-display {
+	margin: 0 20px;
+}
